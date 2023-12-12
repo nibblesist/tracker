@@ -5,4 +5,4 @@ Projekti on tehty kurssityönä Oulun Yliopistossa "Elektroniikkalaitteiden uude
 
 Katso projektin yksityiskohtaisempi selvitys tiedostosta "Projektimuistio".
 
-Niina Lundman
+_Niina Lundman_
